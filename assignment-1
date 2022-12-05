@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Question 1</title>
+  </head>
+  <body>
+    <h1>Qusetion 1<h1><hr>
+    <h2>States and its cities</h2>
+<p>List of states and cities in India using ordered and unordered lists:</p>
+
+<ul>
+  <li>Karnataka</li>
+    <ol>
+      <li>Bengaluru</li>
+      <li>Mysore</li>
+      <li>Mandya</li>
+      <li>Hassaan</li>
+      <li>Davangere</li>
+  </ol>
+</ul>
+
+<ul>
+  <li>Maharashtra</li>
+    <ol>
+      <li>Mumbai</li>
+      <li>Nagpur</li>
+      <li>Pune</li>
+      <li>Aurangabad</li>
+      <li>Thane</li>   
+  </ol>
+    </ul>
+<ul>
+  <li>West Bengal</li>
+    <ol>
+      <li>Kolkata</li>
+      <li>Howrah</li>
+
+      <li>Siliguri</li>
+      <li>Asansol</li>
+      <li>Durgapur</li>   
+  </ol>
+    </ul>
+ <ul>
+  <li>Kerala</li>
+    <ol>
+     …
+[1:08 pm, 01/12/2022] Vidith Rv: <!DOCTYPE html>
+<html>
+<head>
+   <title>HTML Image as link</title>
+</head>
+<body>
+   <h1>Question 2 </h1><hr>
+   <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/161211091/original/9452a5b3d1e3200e95e20b979a665e2636fa8298/do-any-work-using-html-css-javascript-php-mysql.jpg">
+      <img alt="Qries" src="https://previews.123rf.com/images/michaeldb/michaeldb1307/michaeldb130700015/20892817-arrows-point-html-css-php-sql-javascript-into-website-development.jpg" width = " 300 "height="200">
+   </a>
+   <p> Click here to view answer 3- </p>
+   <p> <a href="https://alaricseq.github.io/web-technology-section-A/q3.html">q3</a></p>
+</body>
+</html>
